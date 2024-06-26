@@ -190,7 +190,7 @@ const NavMobile: React.FC<NavMobileProps> = ({
       </ul>
       <div className="flex items-center justify-between py-6 px-5 space-x-2">
         <ButtonPrimary href={"/"} className="!px-10">
-          Home
+          Info
         </ButtonPrimary>
       </div>
     </div>
